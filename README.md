@@ -1,7 +1,5 @@
 <!-- HEADER -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F7AB0A&center=true&width=600&lines=Data+Scientist;Python+%26+NLP+Specialist;Generative+AI;Full+Stack+Developer" alt="Typing Animation" />
-</p>
+
 <h1 align="center">Hey there 👋, I'm <span style="color:#fca311;">Aniket Kumar Singh</span></h1>
 <h3 align="center">Data Scientist | Python & NLP Specialist | Generative AI | Full Stack Developer</h3>
 
