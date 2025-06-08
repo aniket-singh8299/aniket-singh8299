@@ -1,6 +1,9 @@
 <!-- HEADER -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F7AB0A&center=true&width=600&lines=Data+Scientist;Python+%26+NLP+Specialist;Generative+AI;Full+Stack+Developer" alt="Typing Animation" />
+</p>
 <h1 align="center">Hey there 👋, I'm <span style="color:#fca311;">Aniket Kumar Singh</span></h1>
-<h3 align="center">AI/ML Developer | Python & NLP Specialist | Generative AI | Full Stack Engineer</h3>
+<h3 align="center">Data Scientist | Python & NLP Specialist | Generative AI | Full Stack Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aniket-singh8299&label=Profile%20views&color=0e75b6&style=flat-square" alt="aniket-singh8299" />
@@ -19,6 +22,8 @@
   <a href="https://aniket-singh-portfolio.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-black?logo=Google-chrome&style=flat-square" />
   </a>
+   <a href="[https://medium.com/@aniketkrsingh5678](https://medium.com/@aniketkrsingh/automating-linkedin-job-posts-using-python-and-linkedin-api-0b45423dd0c4)"><img src="https://img.shields.io/badge/Medium-000000?logo=medium&style=flat-square" /></a>
+
 </p>
 
 ---
@@ -27,8 +32,8 @@
 
 - 🔭 Currently working as a **Data Scientist @ VelocitAi Digital Pvt Ltd**
 - 🤖 Building real-world solutions with **Generative AI, NLP & Machine Learning**
-- 🌱 Learning: **Power BI**, **LLM Fine-Tuning**, and **RAG pipelines**
-- 🧠 Passionate about **AI x Automation x Open Source**
+- 🌱 Learning: **LangGraph**, **LLM Fine-Tuning**, and **RAG pipelines**
+- 👯 Looking to collaborate on **AI-powered Projects, LLM Tools, and RAG apps**
 - 💬 Ask me about **Python, ML, Generative AI, Full Stack Web Dev**
 - 👨‍💻 Open to **collaborations, hackathons, and open-source contributions**
 
